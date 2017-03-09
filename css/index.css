@@ -1,0 +1,38 @@
+.groot{
+	font-size:5em;
+}
+
+input[type="text"]
+{
+    font-size:3rem;
+}
+input
+{
+    height:100%  !important;
+	text-align: right; 
+}
+.grooter{
+	font-size:6em;
+}
+                
+.euro{
+	padding-top:15px !important;
+}
+.punt{
+	padding-top:30px !important;
+}
+.func{
+	background-color:#1A6BD9
+}
+.container  {
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.container .row {
+  margin: 0 auto;
+}

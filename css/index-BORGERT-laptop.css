@@ -1,7 +1,6 @@
 .groot{
 	font-size:5em;
 }
-
 input[type="text"]
 {
     font-size:3rem;
@@ -35,10 +34,4 @@ input
 
 .container .row {
   margin: 0 auto;
-}
-.t{
-	display:none;
-}
-#logo{
-	width:10%;
 }
